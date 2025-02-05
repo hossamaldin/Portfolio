@@ -11,7 +11,7 @@ export default function HeroSection(){
                     <h1 className="hero-section-title">
                         
                             <span className="hero-section-title-colour">
-                                A Sotware Engineering Student
+                                A Software Engineering Student
                         </span>
                        
                     
